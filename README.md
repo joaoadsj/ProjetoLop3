@@ -1,6 +1,8 @@
 # ProjetoLop3
 //nome:João André Da Silva Júnior; subturma:D
 etapa 3
+
+
 var x=200
 var t=0
 function setup() { createCanvas(800, 800); }
